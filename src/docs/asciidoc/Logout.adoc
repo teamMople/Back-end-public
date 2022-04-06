@@ -1,0 +1,4 @@
+[[LOGIN]]
+=== 로그아웃
+operation::logout[snippets='http-request']
+operation::logout[snippets='http-response']

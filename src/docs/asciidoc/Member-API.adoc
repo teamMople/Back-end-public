@@ -1,0 +1,12 @@
+
+[[MEMBER-API]]
+== 회원관리-API
+
+[[회원가입]]
+== 회원가입
+* link:Signup-API.html[회원가입 ,window=_blank]
+* link:Login-API.html[로그인,window=_blank]
+* link:Logout.html[로그아웃,window=_blank]
+* link:DuplicateEmail.html[이메일중복체크,window=_blank]
+* link:DuplicatesNickname.html[닉네임중복체크,window=_blank]
+* link:updateMember.html[회원정보 수정,window=_blank]

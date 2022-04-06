@@ -1,0 +1,4 @@
+[[SIGNUP]]
+=== 유저정보 업데이트
+operation::updateMember[snippets='http-request,request-fields,request-body']
+operation::updateMember[snippets='http-response,response-body']

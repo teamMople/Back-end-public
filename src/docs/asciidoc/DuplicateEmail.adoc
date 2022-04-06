@@ -1,0 +1,4 @@
+[[LOGIN]]
+=== 로그인
+operation::DuplicatesEmail[snippets='http-request,request-fields,request-body']
+operation::DuplicatesEmail[snippets='http-response,response-body']
